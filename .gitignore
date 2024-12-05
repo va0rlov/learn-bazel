@@ -1,0 +1,11 @@
+# Bazel
+bazel-*/
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS
+.DS_Store
